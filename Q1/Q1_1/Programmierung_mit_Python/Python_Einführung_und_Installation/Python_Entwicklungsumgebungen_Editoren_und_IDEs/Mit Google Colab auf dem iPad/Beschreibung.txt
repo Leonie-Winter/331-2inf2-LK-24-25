@@ -1,0 +1,37 @@
+Wie kann man mit Python auf einem iPad programmieren?
+
+Google Colab Link
+ https://colab.research.google.com/
+
+Nach meiner Erfahrung ist der beste Weg, den ich bisher gefunden habe, Python auf einem iPad zu verwenden, Google Colab. Es ist ein kostenloses Tool, das jedem zur Verfügung steht, der ein Gmail/Google-Konto hat.
+
+Google Colab bietet die gleiche Funktionalität wie das Jupyter-Notebook. Colab ermöglicht es Ihnen, Python in Ihrem Browser zu schreiben und auszuführen, und die wichtigsten Vorteile sind:
+
+    Es ist keine Voreinstellung erforderlich. Es ist eine Vielzahl von Paketen vorinstalliert. D.h. Pandas, Numpy, TensorFlow, Scikit-learn, Matplotlib und viele andere. Wir können sie einfach verwenden, indem wir die Pakete importieren.
+    Skripte sind auf allen Geräten verfügbar. D.h. dieselben Skripte können im Laptop und im iPad aufgerufen und bearbeitet werden.
+    Freier Zugang zu GPUs.
+    Der Code und das Skript können sehr einfach mit anderen geteilt werden. Das erstellte Skript kann in Github hochgeladen oder als .py-Erweiterung auf die lokale Festplatte heruntergeladen werden.
+    Das Beste von allem ist, dass es völlig kostenlos ist und uns ermöglicht, mit Python auf dem iPad zu programmieren.
+
+ 
+
+Wie richtet man Google Colab ein?
+
+Um Python auf dem iPad zu verwenden, benötigen wir ein Google Drive-Konto. Google Drive bietet kostenlosen Cloud-Speicher für den persönlichen Gebrauch. Sie können hier ein kostenloses Konto erstellen.
+
+Nachdem Sie ein Konto erstellt haben, folgen Sie den folgenden Schritten, um mit der Codierung auf dem iPad zu beginnen:
+
+    Melden Sie sich über den Browser bei Google Drive auf Ihrem iPad an. Erstellen Sie dann ein neues Colab-Dokument, indem Sie auf Neu klicken.
+    Wählen Sie Mehr und Google Colaboratory. Wenn Sie Google Colaboratory nicht in der Liste sehen, klicken Sie auf Weitere Apps verbinden, um es in Ihrem Google Drive zu installieren. 
+    Es öffnet sich ein neues Google Colab Dokument, in das wir unseren Code oder Text einfügen können.
+    Unten sind die Hauptbestandteile eines Dokuments. Klicken Sie auf 1, um das Dokument umzubenennen. Mit 2 und 3 können Sie neue Zellen für die Codierung oder einfache Textbearbeitung hinzufügen. In der 4 ist die Zelle, in der Sie den Python-Code eingeben können. Sobald das Skript fertig ist, klicken Sie auf 5 um den Code in dieser Zelle auszuführen. Schließlich können Sie Ihren Code über die Symbolleiste 6 (drei Punkte – weitere Zellaktionen) speichern oder herunterladen.
+    Beginnen Sie mit der Erstellung Ihrer Python-Skripte im iPad > print (“Hello World”).
+    Führen Sie die Zelle aus, um den Code auszuführen, indem Sie auf die Schaltfläche „Play“ klicken. Das Ergebnis wird unter der Zelle angezeigt:
+
+
+Wrapping Up
+
+Wie wir gesehen haben, ist es super einfach, Python auf dem iPad zu verwenden. Allerdings kann das iPad einen PC für Python-Projekte nicht vollumfänglich ersetzten, und zwar aus zwei Gründen:
+
+    Erstens, und das ist noch wichtiger, ist es sehr ineffizient, mit der Bildschirmtastatur des iPad Code zu schreiben. Man ist langsamer und fehleranfälliger als mit einer normalen Tastatur.
+    Und der zweite Grund ist der kleinere Bildschirm meines iPad im Vergleich zu meinem Laptop oder Desktop-Computer.

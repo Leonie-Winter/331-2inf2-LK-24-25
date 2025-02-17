@@ -1,0 +1,20 @@
+
+
+Bearbeiten Sie folgende Punkte zum Modul Variablen(https://inf-schule.de/imperative-programmierung/python/konzepte/variablen/strukturierung_variablen) (inf-schule.de):
+
+    Bearbeiten Sie die Aufgaben 1, 3 und 4 (https://inf-schule.de/imperative-programmierung/python/konzepte/variablen/strukturierung_variablen):
+
+        Aufgabe 1: Variablen in Mathematik und Informatik
+        Aufgabe 3: Zuweisungen alleine auswerten (Arbeitsblatt)(https://inf-schule.de/content/6_imperative-programmierung/3_python/2_konzepte/1_variablen/2_strukturierung_variablen/6-3-2-1-2-AB-Zuweisungen.pdf)
+        Aufgabe 4: Das Wichtigste notieren (Wissenspeicher)(https://inf-schule.de/content/6_imperative-programmierung/3_python/2_konzepte/1_variablen/2_strukturierung_variablen/6-3-2-1-2-Wissensspeicher-Variablen.pdf)
+
+    Lesen Sie zum besseren Veständnis die beiden Fachkonzepte zu Variablen (https://inf-schule.de/imperative-programmierung/python/konzepte/variablen/konzept_variable) und Zuweisungen (https://inf-schule.de/imperative-programmierung/python/konzepte/variablen/konzept_zuweisung)
+    Bearbeiten Sie die Übungsaufgaben 1 bis 4 (https://inf-schule.de/imperative-programmierung/python/konzepte/variablen/uebungen)
+
+Laden Sie Ihre Ergebnisse hier als Antwort hoch. Bereiten Sie sich darauf vor, dem Kurs Ihre Lösungen vorzustellen.
+
+Formatabgabe:
+
+    Arbeitsblatt und Wissenspeicher als pdf-Datei
+    Ergebnisse der Übungsaufgaben 1-3 als pdf-Datei, Aufgabe 4 als Pyton-Datei (.py) 
+

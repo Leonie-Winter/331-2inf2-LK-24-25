@@ -12,10 +12,10 @@ class Ampel:
         return current_hour >= 18 or current_hour < 5
 
     def schalten(self):
-            self.zustand = not self.zustand
-            print(f"{self.print_the_thing()}")
+        self.zustand = not self.zustand
+        print(f"{self.render()}")
             
-    def print_the_thing(self):
+    def render(self):
         night = self.is_night()
         if self.zustand == True and night == False:
                 return "####\n""#""\033[42m  \033[0m""#\n" "####\n" 
@@ -28,7 +28,7 @@ class Ampel:
 
 if __name__ == "__main__":
     ampel = Ampel(False) 
-    for _ in range(5): 
+    for _ in range(15): 
         ampel.schalten()
         time.sleep(1)
         os.system('cls' if os.name == 'nt' else 'clear')

@@ -1,0 +1,10 @@
+
+Python3 IDLE (Win, Mac, Linux) - Basic
+ https://www.python.org/downloads/
+
+Thonny Python IDE (Win, Mac, Linux) - Basic
+ https://thonny.org/
+
+
+Virtual Studio Code IDE (Win, Mac, Linux) - Basic/Expert
+ https://code.visualstudio.com/

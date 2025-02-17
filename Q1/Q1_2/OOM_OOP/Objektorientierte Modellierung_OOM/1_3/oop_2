@@ -1,0 +1,48 @@
+class Ampel(object):
+    def __init__(self):
+        self.zustand = 'rot'
+        self.lampeRot = None
+        self.lampeGelb = None
+        self.lampeGruen = None
+        self.aktualisiereLampen()
+
+    def setZustand(self, z):
+        self.zustand = z
+        self.aktualisiereLampen()
+
+    def getZustand(self):
+        return self.zustand
+
+    def getLampen(self):
+        return (self.lampeRot, self.lampeGelb, self.lampeGruen)
+
+    def schalten(self):
+        if self.zustand == 'rot':
+            self.zustand = 'rotgelb'
+        elif self.zustand == 'rotgelb':
+            self.zustand = 'gruen'
+        elif self.zustand == 'gruen':
+            self.zustand = 'gelb'
+        elif self.zustand == 'gelb':
+            self.zustand = 'rot'
+        self.aktualisiereLampen()
+
+    def aktualisiereLampen(self):
+        if self.zustand == 'rot':
+            self.lampeRot = True
+            self.lampeGelb = False
+            self.lampeGruen = False
+        elif self.zustand == 'rotgelb':
+            self.lampeRot = True
+            self.lampeGelb = True
+            self.lampeGruen = False
+        elif self.zustand == 'gruen':
+            self.lampeRot = False
+            self.lampeGelb = False
+            self.lampeGruen = True
+        elif self.zustand == 'gelb':
+            self.lampeRot = False
+            self.lampeGelb = True
+            self.lampeGruen = False
+
+

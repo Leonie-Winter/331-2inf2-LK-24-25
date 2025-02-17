@@ -1,0 +1,7 @@
+ PortablePython
+https://portablepython.com/
+
+Vim (IDE mit Python Support)
+https://www.vim.org/
+
+etc

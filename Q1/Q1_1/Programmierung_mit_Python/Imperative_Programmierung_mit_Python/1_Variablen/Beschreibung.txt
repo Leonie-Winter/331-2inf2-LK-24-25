@@ -1,0 +1,10 @@
+Worum geht es hier?
+Variablen kennst du aus der Mathematik. Variablen sind dort Platzhalter für noch nicht bekannte Werte. Hier wirst du Variablen in einer etwas anderen Funktion kennen lernen. Variablen benutzt man in der Informatik, um Daten zu verwalten.
+
+Hier lernst du ...
+... was man in der Informatik unter einer Variablen versteht.
+... wie man mit Variablen Daten verwalten kann.
+... wie man Variablenwerte mit Zuweisungen ändern kann.
+... wie man Trace-Tabellen erstellt, um die Entwicklung von Variablenzuständen zu verfolgen.
+
+https://inf-schule.de/imperative-programmierung/python/konzepte/variablen
