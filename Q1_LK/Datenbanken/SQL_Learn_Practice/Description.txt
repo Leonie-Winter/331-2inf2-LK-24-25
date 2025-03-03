@@ -1,0 +1,1 @@
+Praktische Lernplattform zum üben und vertiefen von SQL
