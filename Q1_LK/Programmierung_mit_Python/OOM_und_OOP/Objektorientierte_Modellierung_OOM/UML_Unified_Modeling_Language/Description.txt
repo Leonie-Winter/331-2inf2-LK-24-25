@@ -1,0 +1,11 @@
+UML steht für Unified Modeling Language und ist eine normierte Modellierungssprache zur Spezifikation, Konstruktion, Dokumentation und Visualisierung von Software-Teilen und anderen Systemen. 
+
+Zur Beschreibung objektorientierter Modelle benutzt man meist UML-Diagramme.
+
+UML stellt verschiedene Diagrammtypen zur Beschreibung von Modellen zur Verfügung:
+
+    Objektdiagramme
+    Klassendiagramme
+    Sequenzdiagramme
+    Zustandsdiagramme
+    ...

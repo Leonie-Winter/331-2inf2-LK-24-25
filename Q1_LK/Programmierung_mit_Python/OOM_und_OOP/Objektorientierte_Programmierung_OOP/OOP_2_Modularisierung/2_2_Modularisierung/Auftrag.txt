@@ -1,0 +1,10 @@
+
+
+Bearbeiten Sie die Übungen 1. bis 3. zum Thema Modularisierung.  https://inf-schule.de/oop/python/ampel/modularisierung/uebungen
+
+ 
+
+Laden Sie Ihre Lösungen hier als Antwort hoch. Bereiten Sie sich darauf vor, Ihre Lösunge dem Kurs vorzustellen.
+
+
+Frist: 16.02.2025 23:59

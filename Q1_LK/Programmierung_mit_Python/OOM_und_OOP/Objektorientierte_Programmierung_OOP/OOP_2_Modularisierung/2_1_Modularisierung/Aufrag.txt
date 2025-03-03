@@ -1,0 +1,9 @@
+Bearbeiten Sie folgende Punkte:
+
+    Zugriff auf Attribute – Aufg. 3 – PDF im Anhang  https://inf-schule.de/oop/python/ampel/modularisierung/erkundung_attribute
+    Fachkonzept – Datenkapselung                     https://inf-schule.de/oop/python/ampel/modularisierung/konzept_datenkapselung
+    Exkurs - Datenkapselung in Python                https://inf-schule.de/oop/python/ampel/modularisierung/exkurs_datenkapselungpython
+
+Fassen Sie die Fachkonzepte zusammen. Laden Sie Ihre Lösung hier als Antwort hoch. Bereiten Sie sich darauf vor Ihre Lösungen/Fachkonzepte dem Kurs vorzustellen. 
+
+Frist: 12.02.2025 23:59

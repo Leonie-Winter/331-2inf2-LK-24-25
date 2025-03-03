@@ -1,0 +1,19 @@
+OOM – OOP
+
+Die objektorientiert Programmentwicklung verläuft im Wesentlichen nach folgendem Schema:
+ 	OOM
+(Modellier-
+sprache)	OOA	Fachbezogene Analyse des Problems
+Programmier-
+sprache	OOD	Entwurf und Konstruktion einer Lösung unter Einbeziehung der Benutzungsoberfläche
+ 	OOP	Programmierung im engeren Sinne
+
+OOM:
+    Objektorientierte Modellierung
+OOA:
+    Objektorientierte Analyse
+OOD:
+    Objektorientiertes Design
+OOP:
+    Objektorientierte Programmierung
+     

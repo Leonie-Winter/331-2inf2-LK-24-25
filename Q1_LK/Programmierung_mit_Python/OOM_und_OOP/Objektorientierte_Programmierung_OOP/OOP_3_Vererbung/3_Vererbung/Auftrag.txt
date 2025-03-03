@@ -1,0 +1,11 @@
+
+
+Bearbeiten Sie das Modul Vererbung:                  https://inf-schule.de/oop/python/ampel/vererbung
+
+    Spezielle Ampeln                                 https://inf-schule.de/oop/python/ampel/vererbung/einstieg_gemeinsamkeiten
+    Eine allgemeine Ampel-Klasse – Aufgabe 1 und 2   https://inf-schule.de/oop/python/ampel/vererbung/einstieg_verallgemeinerung
+    Fachkonzept – Vererbung                          https://inf-schule.de/oop/python/ampel/vererbung/konzept_vererbung
+    Exkurs - Implementierung in Python               https://inf-schule.de/oop/python/ampel/vererbung/exkurs_vererbungpython
+    Übungen – Aufgabe 1                              https://inf-schule.de/oop/python/ampel/vererbung/uebungen
+
+Laden Sie Ihre Lösung hier als Antwort hoch. Bereiten Sie sich darauf vor, Ihre Lösung und das Konzept der Vererbung dem Kurs vorzustellen.

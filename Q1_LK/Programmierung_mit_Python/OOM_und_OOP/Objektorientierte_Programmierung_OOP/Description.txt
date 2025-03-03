@@ -1,0 +1,5 @@
+Objektorientierte Programmierung (OOP) mit Python am Beispiel von Simulationen von Ampelsystemen
+
+Während imperative Programmierung von der Vorstellung einer sequentiell arbeitenden Maschine geprägt wird, orientiert sich die objektorientierte Programmierung an der Welt, in der wir leben und die unser Denken bestimmt. So wie ein Ausschnitt der realen Welt aus Objekten zusammengesetzt (gedacht) werden kann, so soll ein Programm aus eigenständigen Software-Objekten - die für bestimmte Aufgaben zuständig sind - aufgebaut werden. Die Vorteile dieser Programmierweise zeigen sich insbesondere bei der Entwicklung komplexer Systeme. Objektorientiertes Denken erleichtert es, die vielen Teile eines komplexen Systems mit Hilfe von Software-Bausteinen zuverlässig und flexibel zu erfassen.
+
+In diesem Kapitel werden Konzepte der objektorientierten Programmierung eingeführt. Es wird davon ausgegangen, dass du die grundlegenden Konzepte der imperativen Programmierung bereits kennst. Anhand eines - zunächst einfachen und dann immer komplexer werdenenden Weltausschnitts - werden diese Konzepte und die zu Grunde liegenden Denkweisen Schritt für Schritt entwickelt.

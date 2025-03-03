@@ -18,3 +18,5 @@ Formatabgabe:
     Arbeitsblatt und Wissenspeicher als pdf-Datei
     Ergebnisse der Übungsaufgaben 1-3 als pdf-Datei, Aufgabe 4 als Pyton-Datei (.py) 
 
+
+Frist: 12.08.2024 21:59

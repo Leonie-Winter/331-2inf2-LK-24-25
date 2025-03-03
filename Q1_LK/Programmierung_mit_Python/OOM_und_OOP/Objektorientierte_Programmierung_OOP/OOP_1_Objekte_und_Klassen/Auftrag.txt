@@ -1,0 +1,16 @@
+
+
+Bearbeiten Sie zur Einführung in die Objektorientierung Programmierung die folgende Aufgaben zur Simulation von Ampelsystemen:
+
+Modul 1. Objekte und Klassen https://inf-schule.de/oop/python/ampel/objekteklassen
+
+    Softwareobjekte zur Simulation von Ampeln: Aufg. 2 – 4  https://inf-schule.de/oop/python/ampel/objekteklassen/einstieg_ampel
+    Strukturierung https://inf-schule.de/oop/python/ampel/objekteklassen/strukturierung
+    Fachkonzept: Objekte  https://inf-schule.de/oop/python/ampel/objekteklassen/konzept_objekt
+    Fachkonzept: Klassen  https://inf-schule.de/oop/python/ampel/objekteklassen/konzept_klasse
+    Exkurs – Implementierung in Python https://inf-schule.de/oop/python/ampel/objekteklassen/exkurs_klassepython
+    Übungen https://inf-schule.de/oop/python/ampel/objekteklassen/uebungen
+
+Laden Sie Ihre Lösungen hier als Antwort hoch. Bereiten Sie sich darauf vor, Ihre Lösungen dem Kurs vorzust
+
+Frist: 29.01.2025 23:59

@@ -1,0 +1,19 @@
+
+
+Bearbeiten Sie das Modul Beziehungen zwsichen Objekten:             https://inf-schule.de/oop/python/ampel/beziehungen
+
+Lesen und ausprobieren:
+
+    Fachkonzept - Zeiger / Referenz                                 https://inf-schule.de/oop/python/ampel/beziehungen/konzept_referenz
+    Exkurs - Objekte in Python                                      https://inf-schule.de/oop/python/ampel/beziehungen/exkurs_objektepython
+    Steuerung von Ampel                                             https://inf-schule.de/oop/python/ampel/beziehungen/erkundung_steuerung
+    Fachkonzept – Beziehung                                         https://inf-schule.de/oop/python/ampel/beziehungen/konzept_beziehung
+    Fachkonzept - Interaktion zwischen Objekten                     https://inf-schule.de/oop/python/ampel/beziehungen/konzept_interaktion
+
+Übungen: Aufgabe 1 und 2                                            https://inf-schule.de/oop/python/ampel/beziehungen/uebungen
+
+Extraaufgabe: Aufgabe 3 (freiwillig)
+
+ 
+
+Laden Sie Ihre Lösungen hier als Antwort hoch. Bereiten Sie sich darauf vor, Ihre Lösungen und die Konzepte dem Kurs vorzustellen. 
